@@ -29,8 +29,8 @@ SECRET_KEY = '&bw#$(e_&ddnqmgr1hlxfdc)((*c2xs8bo-zkdm-i*rqwn-s-d!#'
 # DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 DEBUG = False
 
-# ALLOWED_HOSTS = ['aymantareq.herokuapp.com', '127.0.0.1']
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['aymantareq.herokuapp.com', '127.0.0.1']
+# ALLOWED_HOSTS = ['*']
 
 
 # Application definition
